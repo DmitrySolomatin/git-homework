@@ -1,0 +1,1 @@
+Це текст для feature.txt в main гілці
