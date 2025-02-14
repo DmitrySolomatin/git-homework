@@ -1,2 +1,1 @@
-Це текст для feature.txt в main гілці
-Це оновлений текст для feature.txt в feature-branch
+Це тестовий текст для feature.txt
